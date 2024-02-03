@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Camilo Alvarez-Velez</h1>
-<h3 align="center">A passionate full stack developer seeking summer internships and solving important problems.</h3>
+<h3 align="center">A passionate full stack developer seeking summer SWE Internships.</h3>
 
 - 🔭 I’m currently working on [Checked](https://github.com/Noway-code/Checked)
 
 - 🌱 I’m currently learning **Web/Mobile Development, Data Science, and AI/ML**
 
+- 🧪 I'm an Undergraduate Researcher @ UCF Wear Lab:
+    - **VARs Project** January 24' - Present 
+    - **MMI Project** August 23' - January 24' 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Noway-code)
 
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/e/2PACX-1vTz8qZz-uQXxs8WYNMsEsx6H04kWQd-2pc4u8YoChS3tAG64EPQ_pcKO6k345AU1Q/pub)
