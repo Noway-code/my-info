@@ -1,14 +1,10 @@
 <h1 align="center">Welcome! ⌨️</h1>
 
-###
+### I'm Camilo from Florida! 🐬
+- 🔭 Interning Software Developer @ Thermo Fisher Scientific
+- 📚 I'm currently majoring in CS, Minor in Mathematics
+- 🏋️‍♂️ In my free time I am a Bodybuilder and am currently training for my first Marathon!</h5>
 
-<h2 align="left">About Me :</h2>
-
-###
-
-<h5 align="left">I'm Camilo from Florida 🐬<br><br>- 🔭 I’m working as Software Developer @ Thermo Fischer<br>- 📚 I'm currently majoring in CS, Minor in Mathematics<br>- 🏋️‍♂️ In my free time I am a Bodybuilder and am currently training for my first Marathon!</h5>
-
-###
 
 <h2 align="left">🛠 Language and tools</h2>
 
@@ -55,8 +51,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="175" alt="languages graph"  />
 </div>
 
 ###
