@@ -1,18 +1,63 @@
-# 💫 About Me:
-🌱 I’m currently learning **Web/Mobile Development, Data Science, and AI/ML**<br>🧪 I'm an Undergraduate Researcher @ UCF Wear Lab:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**VARs Project** January 24' - Present <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MMI Project** August 23' - January 24' <br>👨‍💻 All of my projects are available at [Portfolio](https://github.com/Noway-code)<br>📄 Know about my experiences [My Resume](https://docs.google.com/document/d/e/2PACX-1vTz8qZz-uQXxs8WYNMsEsx6H04kWQd-2pc4u8YoChS3tAG64EPQ_pcKO6k345AU1Q/pub)<br>⚡ Fun fact **I've been bodybuilding for 4+ years and am looking to compete**
+<h1 align="center">Welcome! ⌨️</h1>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-alvarez-velez/)
-[![LeetCode user NowayCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNowayCode&logo=leetcode&logoColor=yellow)](https://leetcode.com/NowayCode/)
+<h3 align="left">About Me :</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=noway-code&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noway-code&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=noway-code&icon=2&color=12)](https://visitcount.itsvg.in)
+<p align="left">I'm Camilo from Florida 🐬<br><br>- 🔭 I’m working as Software Developer @ Thermo Fischer<br>- 📚 I'm currently majoring in CS, Minor in Mathematics<br>- 🏋️‍♂️ In my free time I am a Bodybuilder and am currently training for my first Marathon!</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+</div>
+
+###
+
+<h3 align="left">🎏   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <text> &nbsp;&nbsp;  </text>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
