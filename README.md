@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! ⌨️</h1>
 
 ### I'm Camilo from Florida! 🐬
-- 🔭 Interning Software Developer @ Thermo Fisher Scientific
+- 🔭 Ex-intern Software Developer @ Thermo Fisher Scientific
 - 📚 I'm currently majoring in CS, Minor in Mathematics
 - 🏋️‍♂️ In my free time I am a Bodybuilder and am currently training for my first Marathon!</h5>
 
