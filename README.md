@@ -1,58 +1,51 @@
 <h1 align="center">Welcome! ⌨️</h1>
 
-### I'm Camilo from Florida! 🐬
+### I'm Camilo, I hope you enjoy my projects
+
 - 🔭 Ex-intern Software Developer @ Thermo Fisher Scientific
 - 📚 I'm currently majoring in CS, Minor in Mathematics
-- 🏋️‍♂️ In my free time I am a Bodybuilder and am currently training for my first Marathon!</h5>
+- 🏋️‍♂️ In my free time, I am a bodybuilder and am currently training for my first marathon!
+- 📖 I be reading: [Noway Reads on StoryGraph](https://app.thestorygraph.com/profile/nowayreads)
 
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
+<h2 align="left">🛠 Language and Tools</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/archlinux/1793d1" height="40" alt="Arch" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="WebStorm" />
+ 
 </div>
 
-###
-
-<h2 align="left">🎏   My Stats :</h2>
-
-###
+<h2 align="left">🎏 My Stats:</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="175" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="175" alt="Top Languages" />
 </div>
 
-###
+<h2 align="left">🚀 Projects</h2>
+
+### [TypeAlong](https://github.com/noway-code/TypeAlongSvelte)
+TypeAlong is a sleek, minimalistic typing game built using Svelte, designed to enhance your typing skills while enjoying your favorite books. The app supports EPUB file uploads and provides an immersive, beautifully crafted experience in a Nord-themed interface.
+
+### [Ladybug](https://github.com/LadyBugML/ladybug)
+Ladybug integrates a Probot GitHub bot with a Flask backend to automate bug localization in your repositories. This guide provides step-by-step instructions to set up and run both components locally.
+
