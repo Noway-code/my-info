@@ -46,6 +46,6 @@
 ### [TypeAlong](https://github.com/noway-code/TypeAlongSvelte)
 TypeAlong is a sleek, minimalistic typing game built using Svelte, designed to enhance your typing skills while enjoying your favorite books. The app supports EPUB file uploads and provides an immersive, beautifully crafted experience in a Nord-themed interface.
 
-### [Ladybug](https://github.com/yourusername/Ladybug)
+### [Ladybug](https://github.com/LadyBugML/ladybug)
 Ladybug is a GitHub bot that aggregates GUI information and bug reports, leveraging deep learning to accurately locate bugs within your repositories.
 
